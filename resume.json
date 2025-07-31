@@ -1,0 +1,68 @@
+Here is your updated version of the profile JSON with all the requested changes for **Riya Sharma**:
+
+```json
+{
+  "personal": {
+    "name": "Riya Sharma",
+    "title": "Frontend Developer",
+    "email": "guts-crusher-ought@duck.com",
+    "location": "India",
+    "website": "",
+    "avatar": "assets/images/my-avatar.png"
+  },
+  "about": {
+    "paragraphs": [
+      "I am a Frontend Developer, specializing in creating interactive and responsive user interfaces using HTML, CSS, JavaScript, and React.js.",
+      "I enjoy building visually appealing and user-friendly web applications. My training experiences have helped me develop a strong foundation in modern frontend technologies, ensuring smooth and dynamic user experiences for every project I work on."
+    ]
+  },
+  "services": [
+    {
+      "title": "Web Design",
+      "description": "Designing clean, modern, and responsive web interfaces tailored to user needs.",
+      "icon": "assets/images/icon-design.svg"
+    },
+    {
+      "title": "Frontend Development",
+      "description": "Building fast, responsive, and scalable web applications using React.js, JavaScript, HTML, and CSS.",
+      "icon": "assets/images/icon-dev.svg"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Frontend Training",
+      "period": "Jan 2025 — June 2025",
+      "highlights": [
+        {
+          "title": "React Project Developer",
+          "description": "Built a complete chat application using React.js, integrating features like real-time messaging, responsive UI, and dynamic interactions."
+        },
+        {
+          "title": "Web UI Designer",
+          "description": "Created responsive web pages using HTML, CSS, and JavaScript, ensuring cross-browser compatibility and mobile responsiveness."
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Giani Zail Singh Campus College of Engineering and Technology",
+      "period": "2021 — 2025",
+      "description": "Graduated with a Bachelor's degree in Engineering, achieving a CGPA of 7.5."
+    },
+    {
+      "institution": "RMC Higher Secondary School, Kathua",
+      "period": "2019 — 2021",
+      "description": "Completed 12th grade with a 9 CGPA and 10th grade with an 8 CGPA."
+    }
+  ],
+  "social": [],
+  "projects": [
+    {
+      "title": "Chat Application",
+      "description": "Developed a fully responsive chat application using React.js, allowing real-time messaging with clean UI and smooth user experience."
+    }
+  ]
+}
+```
+
